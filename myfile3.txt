@@ -1,1 +1,2 @@
+This is addition in branch to create conflict
 This is file 3
