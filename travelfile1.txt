@@ -1,2 +1,4 @@
+REMOVED ALL CONFLITS
 creating file to comflit with branch file.
 lets see how ti works
+This is my first travel blog
